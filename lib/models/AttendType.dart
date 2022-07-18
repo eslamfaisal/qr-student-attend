@@ -1,0 +1,4 @@
+enum AttendType {
+  Lecture,
+  Section
+}

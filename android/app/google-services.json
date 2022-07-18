@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001402045086",
+    "project_id": "students-attendance-5d06f",
+    "storage_bucket": "students-attendance-5d06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001402045086:android:83718277b0fdb7d7d1e18f",
+        "android_client_info": {
+          "package_name": "com.qr.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001402045086-2ee1daju3qcsi1ohug8ft88h4vjvallp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnRrhpVcFgRNMD0W7LCRID9bsMSy7C4ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001402045086-2ee1daju3qcsi1ohug8ft88h4vjvallp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
