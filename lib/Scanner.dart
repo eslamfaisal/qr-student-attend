@@ -86,7 +86,7 @@ class _Scanner2State extends State<Scanner2> {
         return AlertDialog(
           title: Text('Scan result'),
           content: Text(
-            barcode != null ? 'Result : ${barcode.code}' : 'Scan A Code!',
+            barcode != null ? 'Attend done Successfully' : 'Scan Failed',
             maxLines: 3,
           ),
           actions: [
